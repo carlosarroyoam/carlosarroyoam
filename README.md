@@ -12,4 +12,5 @@
 
 <br/>
 
-Trabajo como desarrollador de software de tiempo completo, principalmente en proyectos con Java y Node.js. Soy egresado de la carrera Ingeniería en Informática del ITSUR y cuento con sólidos conocimientos en programación orientada a objetos y bases de datos relacionales.
+Trabajo como desarrollador de software de tiempo completo, principalmente en proyectos con Java y Node.js. 
+Soy egresado de la carrera Ingeniería en Informática del ITSUR y cuento con sólidos conocimientos en programación orientada a objetos y bases de datos relacionales.
