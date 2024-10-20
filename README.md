@@ -9,5 +9,5 @@
 
 <br/>
 
-Trabajo como desarrollador de software de tiempo completo, principalmente en proyectos con Java y Node.js. 
-Soy egresado de la carrera Ingeniería en Informática del ITSUR y cuento con sólidos conocimientos en programación orientada a objetos y bases de datos relacionales.
+Soy un desarrollador de software con más de 3 años de experiencia en la creación de soluciones de software eficientes y escalables.
+Me especializo en el desarrollo de software del lado del back-end, utilizando tecnologías como Java, Spring Boot y bases de datos para impulsar proyectos innovadores y de alto rendimiento.
