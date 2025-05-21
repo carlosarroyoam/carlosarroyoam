@@ -9,5 +9,7 @@
 
 <br/>
 
-Soy un desarrollador de software con más de 3 años de experiencia en la creación de soluciones de software eficientes y escalables.
-Me especializo en el desarrollo de software del lado del back-end, utilizando tecnologías como Java, Spring Boot y bases de datos para impulsar proyectos innovadores y de alto rendimiento.
+Soy un desarrollador de software con más de 4 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones empresariales utilizando Java.
+Me especializo en el desarrollo de software del lado del back-end, utilizando tecnologías como Java, Spring Boot, Quarkus, Hibernate, JUnit, Docker, OpenShift, Keycloak, Git, Maven, Open API, SonarQube.
+Tengo experiencia en la integración de sistemas, desarrollo de microservicios y trabajo con bases de datos relacionales.
+Además, me apasiona la optimización del rendimiento y la implementación de pruebas unitarias y de integración para garantizar la calidad del software.
