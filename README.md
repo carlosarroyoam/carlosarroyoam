@@ -16,9 +16,5 @@ Además, me apasiona la optimización del rendimiento y la implementación de pr
 
 ---
 
-## 📈 GitHub Stats
-
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarroyoam&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosarroyoam&layout=compact&theme=github_dark)
-
----
