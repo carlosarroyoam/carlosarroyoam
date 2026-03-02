@@ -9,12 +9,4 @@
 
 <br/>
 
-Soy un desarrollador de software con más de 4 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones empresariales utilizando Java.
-Me especializo en el desarrollo de software del lado del back-end, utilizando tecnologías como Java, Spring Boot, Quarkus, Hibernate, JUnit, Docker, OpenShift, Keycloak, Git, Maven, Open API, SonarQube.
-Tengo experiencia en la integración de sistemas, desarrollo de microservicios y trabajo con bases de datos relacionales.
-Además, me apasiona la optimización del rendimiento y la implementación de pruebas unitarias y de integración para garantizar la calidad del software.
-
----
-
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosarroyoam&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosarroyoam&layout=compact&theme=github_dark)
+Soy un desarrollador de software con más de 5 años de experiencia en el diseño, desarrollo y mantenimiento de aplicaciones empresariales, con especialización en back-end utilizando Java y el ecosistema Spring (Spring Boot, Spring Web, Spring Data). He trabajado en arquitecturas de microservicios, integración de sistemas y desarrollo de APIs REST, empleando buenas prácticas de diseño, pruebas unitarias y optimización del rendimiento para garantizar la calidad del software. Además, tengo conocimientos sólidos en front-end con Angular, lo que me permite colaborar eficazmente en equipos full-stack y aportar una visión integral del producto.
